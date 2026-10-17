@@ -1,26 +1,39 @@
-# Sorting_Visualizer
+# Sorting Visualizer
 
-A web application showcasing the inner workings of sorting algorithms.
+An interactive web application that visualizes popular sorting algorithms step by step, making it easier to understand how they work.
 
-Implemented algorithms:
-1) Bubble sort
-2) Selection sort
-3) Insertion sort
-4) Merge sort
-5) Quick sort
-6) Heap sort
+## 🚀 Features
 
-Features:
-1) Colored representation of step being executed.
-  1.1) Blue:default
-  1.2) Yellow: Being compared
-  1.3) Red: Identified as in incorrect position and to be moved
-  1.4) Green: In correct position
-2) 3 Controls for visualizations
-  2.1) Speed of visualization (5 speed levels)
-  2.2) Data size ()
-  2.3) Generation of new data (Randomly generate new data).
-4) Time and Space complexity of algorithm being visualized.
+- Visualize Bubble Sort
+- Visualize Selection Sort
+- Visualize Insertion Sort
+- Visualize Merge Sort
+- Visualize Quick Sort
+- Visualize Heap Sort
+- Color-coded bars to illustrate sorting progress
+- Interactive learning experience
 
-## Author
-Kritika Singh
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3 / SCSS
+- JavaScript
+
+## 💻 Getting Started
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/KritikaaSinghh/Sorting-Visualizer.git
+   ```
+2. Open the project folder.
+3. Open `index.html` in your browser.
+
+## 🎯 Purpose
+
+This project helps learners understand sorting algorithms through interactive visualizations.
+
+## 👩‍💻 Author
+
+**Kritika Singh**
+
+- GitHub: [@KritikaaSinghh](https://github.com/KritikaaSinghh)
